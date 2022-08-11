@@ -1,1 +1,1 @@
-# Ajax DataTables Expand with animation
+# Ajax DataTables Expand with animate
